@@ -66,4 +66,5 @@ return {
   7217985769, -- RLTkent
   2323012352, -- zomn8989
   6203687235, -- FLYTWINS_friend3
+  7810689834, -- Not_SlowExe
 }
