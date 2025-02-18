@@ -82,6 +82,7 @@ return {
   3796030553, -- XxNoScopeXX105
   8003624951, -- LOS_GLITCH35
   7898321892, -- XxSenpaiWorkoutxX
+  8014667642, -- Sonic_hedgehog7525
   7536004015, -- FSK_GHOSTalt
   6071635612, -- Topperguild985
   5603552025, -- AminNoLimit
