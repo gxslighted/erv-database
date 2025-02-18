@@ -63,4 +63,6 @@ return {
   4919510829, -- saadalanzee2
   2056355141, -- Kitelaku 
   3312487706, -- 0966chrsjhon
+  7217985769, -- RLTkent
+  2323012352, -- zomn8989
 }
