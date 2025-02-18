@@ -62,4 +62,5 @@ return {
   3034004536, -- Ravman_146
   4919510829, -- saadalanzee2
   2056355141, -- Kitelaku 
+  3312487706, -- 0966chrsjhon
 }
