@@ -85,7 +85,7 @@ return {
   7536004015, -- FSK_GHOSTalt
   6071635612, -- Topperguild985
   5603552025, -- AminNoLimit
-  3284511718, -- dogekiza
+  2655058221, -- yaqoob273
   4551495445, -- Naz_qxp
   6206575997, -- Naz_WHH
   7923494318, -- Nxz_xxp
