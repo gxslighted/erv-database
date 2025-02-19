@@ -69,4 +69,8 @@ return {
   6203687235, -- FLYTWINS_friend3
   7810689834, -- Not_SlowExe
   7772058234, -- Rexyy889
+  3762501605, -- kkzjpp
+  7748739499, -- KymJyc725
+  7098684124, -- BlackRoses1261
+  5267588128, -- Fearless_SouL1216
 }
