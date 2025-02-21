@@ -110,4 +110,6 @@ return {
   3585518968, -- Understarry
   8007817001, -- Nylonstreng1
   3265239871, -- Takbelegg
+  3703079796, -- kingAJ_70
+  7896392046, -- Eu_XxsavagexX
 }
