@@ -106,7 +106,7 @@ return {
   8044881935, -- Vzxu3
   8027319564, -- Cvx7ll
   8044887721, -- Zx4zz1
-  2340285696. -- Taklist
+  2340285696, -- Taklist
   3585518968, -- Understarry
   8007817001, -- Nylonstreng1
   3265239871, -- Takbelegg
