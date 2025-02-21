@@ -79,4 +79,6 @@ return {
   7471872501, -- KAI123337909
   5426329723, -- NLS_BlackiAfrica
   7137329836, -- kirito007026
+  7215294508, -- script_lang3
+  7805889236, -- dump_khyle
 }
