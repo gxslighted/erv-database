@@ -117,4 +117,5 @@ return {
   3579674781, -- Bbde_anuel
   1658341203, -- usuariusos
   2845792112, -- Nahuel123romer
+  5164303839, -- Sudmarinz001
 }
