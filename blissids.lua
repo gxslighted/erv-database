@@ -112,4 +112,9 @@ return {
   3265239871, -- Takbelegg
   3703079796, -- kingAJ_70
   7896392046, -- Eu_XxsavagexX
+  1739435358, -- 599misterio599
+  4474609414, -- soybueno20080
+  3579674781, -- Bbde_anuel
+  1658341203, -- usuariusos
+  2845792112, -- Nahuel123romer
 }
