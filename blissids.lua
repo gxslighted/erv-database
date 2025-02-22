@@ -118,4 +118,5 @@ return {
   1658341203, -- usuariusos
   2845792112, -- Nahuel123romer
   5164303839, -- Sudmarinz001
+  7111667917, -- GENEXIS136
 }
