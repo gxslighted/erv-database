@@ -84,4 +84,6 @@ return {
   3317828809, -- fri_ribix
   7223287735, -- Yaqoob273_alt
   1488457054, -- Cyann498
+  1971206462, -- TheK1ngYatzuk
+  2725840803, -- zVnzYz
 }
