@@ -80,6 +80,7 @@ return {
   5426329723, -- NLS_BlackiAfrica
   7137329836, -- kirito007026
   7215294508, -- script_lang3
+  8068753883, -- lmmortalityinthegame
   7805889236, -- dump_khyle
   3317828809, -- fri_ribix
   7223287735, -- Yaqoob273_alt
