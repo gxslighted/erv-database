@@ -93,4 +93,8 @@ return {
   4160491056, -- Jdidjdjdkdq
   7924906683, -- Jdidjdjdkdq8
   3153679790, -- imjustanooblol10
+  7893624238, -- ES_LordMaori
+  5481923295, -- OG_Lordalt
+  7408883457, -- LMC_Glitch
+  4866170364, -- tr1ckst11113
 }
