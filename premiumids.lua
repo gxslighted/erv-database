@@ -97,4 +97,7 @@ return {
   5481923295, -- OG_Lordalt
   7408883457, -- LMC_Glitch
   4866170364, -- tr1ckst11113
+  5276844158, -- FNT_DOG
+  4496297466, -- TILIN_CACO
+  2753731498, -- akashihokage
 }
