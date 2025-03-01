@@ -125,4 +125,7 @@ return {
   3464789356, -- Razplyx
   5155444877, -- darndarn12347
   7261631459, -- Elijahscot5557
+  5276844158, -- FNT_DOG
+  4496297466, -- TILIN_CACO
+  2753731498, -- akashihokage
 }
