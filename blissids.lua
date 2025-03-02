@@ -110,7 +110,7 @@ return {
   2340285696, -- Taklist
   3585518968, -- Understarry
   8007817001, -- Nylonstreng1
-  3265239871, -- Takbelegg
+  7982904528, -- Krepsehale
   3703079796, -- kingAJ_70
   7896392046, -- Eu_XxsavagexX
   1739435358, -- 599misterio599
