@@ -100,4 +100,5 @@ return {
   5276844158, -- FNT_DOG
   4496297466, -- TILIN_CACO
   2753731498, -- akashihokage
+  7013206299, -- Esamee1
 }
