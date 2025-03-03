@@ -136,4 +136,6 @@ return {
   4712450572, -- BrokeBoiML5
   7223287735, -- Yaqoob273_alt
   3435464474, -- Renagade7175
+  8096680318, -- TheParadoxis
+  2764545043, -- IMNiloy24680
 }
