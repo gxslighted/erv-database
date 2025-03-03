@@ -138,4 +138,6 @@ return {
   3435464474, -- Renagade7175
   8096680318, -- TheParadoxis
   2764545043, -- IMNiloy24680
+  3735649099, -- ICE_KING7656
+  3618200543, -- qrcode4040
 }
