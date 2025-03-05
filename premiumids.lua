@@ -102,5 +102,4 @@ return {
   2753731498, -- akashihokage
   7013206299, -- Esamee1
   3435464474, -- Renagade7175
-  8104651198, -- LEGENDofSPEED587
 }
