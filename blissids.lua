@@ -141,4 +141,7 @@ return {
   3735649099, -- ICE_KING7656
   3618200543, -- qrcode4040
   2452145283, -- jana_peque2
+  5827692220, -- legendSpeed2024
+  7794977430, -- legendSpeed2025
+  8106043838, -- aryalegend08
 }
