@@ -144,4 +144,5 @@ return {
   5827692220, -- legendSpeed2024
   7794977430, -- legendSpeed2025
   8106043838, -- aryalegend08
+  1113159433, -- eheheuehwe
 }
