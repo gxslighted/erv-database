@@ -146,4 +146,8 @@ return {
   8106043838, -- aryalegend08
   1113159433, -- eheheuehwe
   4396616182, -- Fan_deleder211
+  6210444904, -- NECSRTAK
+  7317317750, -- MANTAPGG00
+  5411134226, -- hani_king102
+  5234207924, -- Inf_Demon9
 }
